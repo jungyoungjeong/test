@@ -14,4 +14,7 @@ public class HelloWorld {
 	public int multi() {
 		return 5*3;
 	}
+	public int sub() {
+		return 5-3;
+	}
 }
